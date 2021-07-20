@@ -39,11 +39,11 @@ git clone https://github.com/kongfl888/luci-app-adguardhome.git package/luci-app
 #git clone https://github.com/garypang13/luci-app-bypass package/luci-app-bypass
 
 #OpenClash小猫咪
-git clone https://github.com/vernesong/OpenClash.git package/OpenClash
+#git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 
 #添加smartdns
-git clone https://github.com/pymumu/openwrt-smartdns package/smartdns
-git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
+#git clone https://github.com/pymumu/openwrt-smartdns package/smartdns
+#git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
 
 #添加chinadns-ng防污染分配合ssp还行
 #git clone -b luci https://github.com/pexcn/openwrt-chinadns-ng.git package/luci-app-chinadns-ng
